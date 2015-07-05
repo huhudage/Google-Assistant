@@ -31,5 +31,5 @@
 
 ##License##
 
-- Laravel Socialite is open-sourced software licensed under the MIT license
+- Google Assistant is open-sourced software licensed under the MIT license
 
