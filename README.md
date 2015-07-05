@@ -1,9 +1,9 @@
 ## 谷歌助手V1.0.0.3发布##
 ##下载地址##
 
-- 将枫叶香蕉项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
-- 1 百度云
-- 2 谷歌网盘
+- 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
+- 1 百度云 (待发布..)
+- 2 谷歌网盘(待发布..)
 
 ===========
 ##更新特性##
@@ -27,5 +27,9 @@
 
 - 6 技术支持
 
-- 7 跨平台支持,请加入国内腾讯群:453864468
+- 7 跨平台支持
+
+##License##
+
+- Laravel Socialite is open-sourced software licensed under the MIT license
 
