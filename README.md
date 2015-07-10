@@ -3,8 +3,7 @@
 - http://git.io/vqQN5
 
 - 将项目邮箱加入你的联系人,随时获取谷歌助手最新消息gelou.cat@gmail.com
-- 1 百度云 (待发布..)
-- 2 谷歌网盘(待发布..)
+
 
 ===========
 ##更新特性##
@@ -16,13 +15,16 @@
 - 优化证书安装
 - 重新设计UI
 
-## 其他链接
+## 其他链接## 
 |    |   |
 | --------   | :----  |
 | 谷歌社区 | https://plus.google.com/communities/100095559541855774106 |
 | 推特 | https://twitter.com/GoogleAssistan |
 | 更新历史| 待添加.. |
 |    |   |
+
+##问题反馈##
+https://github.com/Matrixdns/Google-Assistant/issues
 
 ##独有功能##
 |    |   |
